@@ -11,7 +11,7 @@
     <properties>
         <cucumber.version>4.8.0</cucumber.version>
         <selenium.version>3.141.59</selenium.version>
-        <appium.version>7.3.0</appium.version>
+        <appium.version>7.5.1</appium.version>
         <webdrivermanager.version>3.7.1</webdrivermanager.version>
         <threadcount>5</threadcount>
     </properties>
